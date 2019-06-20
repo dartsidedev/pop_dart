@@ -1,0 +1,3 @@
+> If you create any command-line tools intended for public consumption, place those in the bin directory, which is public. Enable running a tool from the command line, using pub global activate. Listing the tool in the executables section of the pubspec allows a user to run it directly without calling pub global run.
+
+For more information, go to [Providing additional files](https://dart.dev/guides/libraries/create-library-packages#providing-additional-files)
