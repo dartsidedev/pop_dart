@@ -1,10 +1,9 @@
 name: pop_dart
-version: 0.0.1
-description: A delicious Dart library for collections and caches and whatnot.
-author: Vince Varga <vince.varga@serial.dev>
+version: 0.0.1+1
+description: A delicious Dart library
+author: Vince Varga <vince.varga@serialdeveloper.com>
 homepage: https://github.com/dartsidedev/pop_dart
 issue_tracker: https://github.com/dartsidedev/pop_dart/issues
-documentation: https://pub.dev/documentation/pop_dart
 environment:
   sdk: '>=2.0.0 <3.0.0'
 dev_dependencies:
