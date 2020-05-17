@@ -1,7 +1,6 @@
 name: pop_dart
 version: 0.0.1+1
 description: A delicious Dart library
-author: Vince Varga <vince.varga@serialdeveloper.com>
 homepage: https://github.com/dartsidedev/pop_dart
 issue_tracker: https://github.com/dartsidedev/pop_dart/issues
 environment:
