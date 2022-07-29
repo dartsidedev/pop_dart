@@ -1,3 +1,7 @@
+# DISCONTINUED
+
+See [pop](https://github.com/dartsidedev/pop) for the Dart package that is being actively maintained. Much of the original vision of this package will be implemented there.
+
 # `pop_dart`
 
 > A delicious Dart library.
