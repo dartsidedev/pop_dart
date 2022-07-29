@@ -4,6 +4,6 @@ description: A delicious Dart library
 homepage: https://github.com/dartsidedev/pop_dart
 issue_tracker: https://github.com/dartsidedev/pop_dart/issues
 environment:
-  sdk: '>=2.0.0 <3.0.0'
+  sdk: '>=2.16.0 <3.0.0'
 dev_dependencies:
-  test: ^1.6.4
+  test: ^1.21.1
